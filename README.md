@@ -10,3 +10,7 @@ Pasos para ejecutar proyecto
 
 1. Ejecutar ```npm run build```
 2. Tomar la carpeta ```dist``` y desplegarla
+
+
+//Nota para mi:
+  Agregar rama 'dev' o alguna de desarrollo, que no sea el push a prod
